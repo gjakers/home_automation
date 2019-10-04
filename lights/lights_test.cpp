@@ -76,7 +76,8 @@ int main() {
         << "\nHas temperature control? " << bridge.getLight(light).hasTemperatureControl()
         << "\nHas color control? "       << bridge.getLight(light).hasColorControl() << '\n';
   }
-return 0;
+  
+  return 0;
 }
 
 
