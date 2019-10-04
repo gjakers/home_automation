@@ -1,0 +1,8 @@
+https://github.com/postlund/hass-config/tree/master/homeassistant/custom_components/dlink_motion_sensor
+ * hass-config/homeassistant/custom_components/dlink_motion_sensor/dlink.py
+      
+Usage:
+  python3 -u /home/pi/dlink.py ip pin loop
+
+
+      
